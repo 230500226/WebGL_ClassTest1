@@ -1,0 +1,23 @@
+body {
+    background-color: grey;
+    padding: 25px;
+    margin:25px;
+    width:50%;
+}
+#IDcanvas {
+    width: 800px;
+    height: 600px;
+}
+#error-box {
+    width: 800px;
+    height: 200px;
+    background-color: black;
+    margin-top: 20px;
+    color: #fd8080;
+    font-weight: 500;
+    font-size: 18pt;
+    border: 1px solid white;
+    padding: 25px;
+    overflow: auto; 
+    word-wrap: break-word;
+}
